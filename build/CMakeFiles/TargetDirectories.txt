@@ -1,0 +1,4 @@
+/home/jovyan/stepcounter/build/CMakeFiles/test_steps.dir
+/home/jovyan/stepcounter/build/CMakeFiles/test.dir
+/home/jovyan/stepcounter/build/CMakeFiles/edit_cache.dir
+/home/jovyan/stepcounter/build/CMakeFiles/rebuild_cache.dir
